@@ -1,0 +1,140 @@
+{
+  "generatedAt": "2026-10-31T11:20:06.551Z",
+  "designSystem": "0.5.1",
+  "items": [
+    {
+      "id": "launcher",
+      "name": "PJ Launcher",
+      "version": "1.1.0",
+      "category": "launcher",
+      "extensionId": "pfmahdjfoanniicgkffgondnimfmjegn",
+      "file": "launcher-1.1.0.zip",
+      "size": 56359,
+      "sha256": "0d8b78333e13dcf61582b0bf46c2399096fea7957dddcdb50c1f364c447e475d",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/launcher-1.1.0.zip"
+    },
+    {
+      "id": "booking",
+      "name": "Booking",
+      "version": "1.4.3",
+      "category": "booking",
+      "extensionId": "akhdlpnepdfmnkahecgklbgihimkkell",
+      "file": "booking-1.4.3.zip",
+      "size": 74141,
+      "sha256": "e1135335be0b2dd284795671fe9ae08cf00ea257b3e0f8e1ae7bcf5c692227cc",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/booking-1.4.3.zip"
+    },
+    {
+      "id": "snm-booking",
+      "name": "SNM Booking Info",
+      "version": "2.23.1",
+      "category": "booking",
+      "extensionId": "jnbpdlpajponljefphlpicbaeklnbnag",
+      "file": "snm-booking-2.23.1.zip",
+      "size": 138904,
+      "sha256": "fb175a643eb47d62b00f0cbee36aacfd686048aea88685acdcc0034a56eadc97",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/snm-booking-2.23.1.zip"
+    },
+    {
+      "id": "ota-rate",
+      "name": "OTA Rate",
+      "version": "1.3.1",
+      "category": "ota",
+      "extensionId": "lkeoodfbphljlhipblpoffjiagkanphc",
+      "file": "ota-rate-1.3.1.zip",
+      "size": 527042,
+      "sha256": "d18f641616fc12352e6e5ed3e53cf547e5e92a261822092aa57d9c851753bd3a",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/ota-rate-1.3.1.zip"
+    },
+    {
+      "id": "otas-tracker",
+      "name": "OTAs Tracker",
+      "version": "1.2.1",
+      "category": "ota",
+      "extensionId": "ndbcgoiojinnfhpdmkbadhdjmiklmkbp",
+      "file": "otas-tracker-1.2.1.zip",
+      "size": 188195,
+      "sha256": "133cf208d3dbf5fa3ccdc6fa50787fe16ad7b935e16cbd5c31bed8dbe69c3581",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/otas-tracker-1.2.1.zip"
+    },
+    {
+      "id": "colinker",
+      "name": "Colinker",
+      "version": "1.1.1",
+      "category": "supplier",
+      "extensionId": "hajhoehjanoiocncgldmajofehjnheeg",
+      "file": "colinker-1.1.1.zip",
+      "size": 72670,
+      "sha256": "86ae011d7d2c0a6abdf3e22645e9a58b26e133f5cf203f7509b9a3789c51498f",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/colinker-1.1.1.zip"
+    },
+    {
+      "id": "dida-rate",
+      "name": "Dida Rate",
+      "version": "1.1.2",
+      "category": "supplier",
+      "extensionId": "bjfandbneheghchnciidlmjehmncadgi",
+      "file": "dida-rate-1.1.2.zip",
+      "size": 499678,
+      "sha256": "2dec663ad9e9d03a752a70f9d8ffceb535187db3593d6358e1fee5bab24df4d5",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/dida-rate-1.1.2.zip"
+    },
+    {
+      "id": "snm-hotel-setup",
+      "name": "SNM Hotel Setup",
+      "version": "1.57.1",
+      "category": "supplier",
+      "extensionId": "kkmjokpimikmkjnjgldinlijfpfhklad",
+      "file": "snm-hotel-setup-1.57.1.zip",
+      "size": 191675,
+      "sha256": "006cda332ec9554a411e1914350c18fdc3b8f5e32ff4e1056d0447d29fa3607f",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/snm-hotel-setup-1.57.1.zip"
+    },
+    {
+      "id": "room-sync",
+      "name": "Room Sync",
+      "version": "1.5.1",
+      "category": "sync",
+      "extensionId": "lmbnakelliobnjcpngajdnlnfmijbffk",
+      "file": "room-sync-1.5.1.zip",
+      "size": 685131,
+      "sha256": "b4f2d448916dcda73969f7779b05dad6789173c45aa0623e7dfcfffab771b57e",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/room-sync-1.5.1.zip"
+    },
+    {
+      "id": "vbooking-tour",
+      "name": "Vbooking Tour Setup",
+      "version": "0.4.1",
+      "category": "tour",
+      "extensionId": "janhpobfclelfahkdafnmnphoefpnjga",
+      "file": "vbooking-tour-0.4.1.zip",
+      "size": 84331,
+      "sha256": "ef4b3b1e4f4af1bc627f7a667f113fd390505155568f3b8d0a1f09c3f46d0216",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/vbooking-tour-0.4.1.zip"
+    },
+    {
+      "id": "hotel-info",
+      "name": "PJ Website Hotel Info Assistant",
+      "version": "8.6.2",
+      "category": "website",
+      "extensionId": "jadimeeccaemegfamfadajilpnjhnpmg",
+      "file": "hotel-info-8.6.2.zip",
+      "size": 539876,
+      "sha256": "2fae6577bd0a65ddd2c16629b966778a659a0fa707586e2b3d109961fd97a193",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/hotel-info-8.6.2.zip"
+    },
+    {
+      "id": "pj-website-price",
+      "name": "PJ Website Price Automation",
+      "version": "0.11.1",
+      "category": "website",
+      "extensionId": "cokobmaifkjcocbomlchiblkjlmlbnlh",
+      "file": "pj-website-price-0.11.1.zip",
+      "size": 215714,
+      "sha256": "3d8b0197a0890fbeffee2cb0052f955a8e9ff225da552e431388190ddea380fc",
+      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/pj-website-price-0.11.1.zip"
+    }
+  ],
+  "tag": "release-2026-10-31",
+  "releaseUrl": "https://github.com/Khoa11001985/Pj-extension/releases/tag/release-2026-10-31"
+}
