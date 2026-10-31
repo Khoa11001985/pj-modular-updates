@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-31T11:20:06.551Z",
+  "generatedAt": "2026-10-31T11:54:45.436Z",
   "designSystem": "0.5.1",
   "items": [
     {
       "id": "launcher",
       "name": "PJ Launcher",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "category": "launcher",
       "extensionId": "pfmahdjfoanniicgkffgondnimfmjegn",
-      "file": "launcher-1.1.0.zip",
+      "file": "launcher-1.1.1.zip",
       "size": 56359,
-      "sha256": "0d8b78333e13dcf61582b0bf46c2399096fea7957dddcdb50c1f364c447e475d",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/launcher-1.1.0.zip"
+      "sha256": "bbe1edcf90e710a9ad548de13774a4798a52efd0da141e2fa825fa4d7bcf7795",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "booking",
@@ -21,8 +21,8 @@
       "extensionId": "akhdlpnepdfmnkahecgklbgihimkkell",
       "file": "booking-1.4.3.zip",
       "size": 74141,
-      "sha256": "e1135335be0b2dd284795671fe9ae08cf00ea257b3e0f8e1ae7bcf5c692227cc",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/booking-1.4.3.zip"
+      "sha256": "cef9bd0b5b00847c82827f953dbf2d0181991b1d4e2c45ae8c3129a2ebf2e684",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "snm-booking",
@@ -32,8 +32,8 @@
       "extensionId": "jnbpdlpajponljefphlpicbaeklnbnag",
       "file": "snm-booking-2.23.1.zip",
       "size": 138904,
-      "sha256": "fb175a643eb47d62b00f0cbee36aacfd686048aea88685acdcc0034a56eadc97",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/snm-booking-2.23.1.zip"
+      "sha256": "025c0d788e91eea0d270e37034e89d8bd8ebe7a5c677545a78f5951ea00532cf",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "ota-rate",
@@ -43,8 +43,8 @@
       "extensionId": "lkeoodfbphljlhipblpoffjiagkanphc",
       "file": "ota-rate-1.3.1.zip",
       "size": 527042,
-      "sha256": "d18f641616fc12352e6e5ed3e53cf547e5e92a261822092aa57d9c851753bd3a",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/ota-rate-1.3.1.zip"
+      "sha256": "736241244340dda35880cef3c80714cf9daaa92fded945ab1e56fb9b523fe4d0",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "otas-tracker",
@@ -54,8 +54,8 @@
       "extensionId": "ndbcgoiojinnfhpdmkbadhdjmiklmkbp",
       "file": "otas-tracker-1.2.1.zip",
       "size": 188195,
-      "sha256": "133cf208d3dbf5fa3ccdc6fa50787fe16ad7b935e16cbd5c31bed8dbe69c3581",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/otas-tracker-1.2.1.zip"
+      "sha256": "b7e910d4f14fe6557e89b92d298ac5a78faa922d31073fc680a319b74ec84eb0",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "colinker",
@@ -65,8 +65,8 @@
       "extensionId": "hajhoehjanoiocncgldmajofehjnheeg",
       "file": "colinker-1.1.1.zip",
       "size": 72670,
-      "sha256": "86ae011d7d2c0a6abdf3e22645e9a58b26e133f5cf203f7509b9a3789c51498f",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/colinker-1.1.1.zip"
+      "sha256": "628a6980605c01078046ad3195ebc5ea88edda68f5b95217291b9b778aadfd9d",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "dida-rate",
@@ -76,8 +76,8 @@
       "extensionId": "bjfandbneheghchnciidlmjehmncadgi",
       "file": "dida-rate-1.1.2.zip",
       "size": 499678,
-      "sha256": "2dec663ad9e9d03a752a70f9d8ffceb535187db3593d6358e1fee5bab24df4d5",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/dida-rate-1.1.2.zip"
+      "sha256": "9ab2741b6c99bdf7d2b32e5f1c3c5d408055c8825c84c29bd60cff8a2759e4dc",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "snm-hotel-setup",
@@ -87,8 +87,8 @@
       "extensionId": "kkmjokpimikmkjnjgldinlijfpfhklad",
       "file": "snm-hotel-setup-1.57.1.zip",
       "size": 191675,
-      "sha256": "006cda332ec9554a411e1914350c18fdc3b8f5e32ff4e1056d0447d29fa3607f",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/snm-hotel-setup-1.57.1.zip"
+      "sha256": "8ebfc804f7df6244e022c522c6725e8e2eab7d9f0dd4c2be72d29022e5587494",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "room-sync",
@@ -98,8 +98,8 @@
       "extensionId": "lmbnakelliobnjcpngajdnlnfmijbffk",
       "file": "room-sync-1.5.1.zip",
       "size": 685131,
-      "sha256": "b4f2d448916dcda73969f7779b05dad6789173c45aa0623e7dfcfffab771b57e",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/room-sync-1.5.1.zip"
+      "sha256": "1715d82d173dd9487076594c05abd1d2f486f55231ec7c61013f16009d4a211b",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "vbooking-tour",
@@ -109,8 +109,8 @@
       "extensionId": "janhpobfclelfahkdafnmnphoefpnjga",
       "file": "vbooking-tour-0.4.1.zip",
       "size": 84331,
-      "sha256": "ef4b3b1e4f4af1bc627f7a667f113fd390505155568f3b8d0a1f09c3f46d0216",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/vbooking-tour-0.4.1.zip"
+      "sha256": "265c1c02e791613a129d668ff572c9f7496125781e98b2bf86428fc60e306b27",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "hotel-info",
@@ -120,8 +120,8 @@
       "extensionId": "jadimeeccaemegfamfadajilpnjhnpmg",
       "file": "hotel-info-8.6.2.zip",
       "size": 539876,
-      "sha256": "2fae6577bd0a65ddd2c16629b966778a659a0fa707586e2b3d109961fd97a193",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/hotel-info-8.6.2.zip"
+      "sha256": "99d75f5fdb8e1533274b7280fb68c058b13ff1a1265ba5aa7e365421c312921f",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
       "id": "pj-website-price",
@@ -131,10 +131,10 @@
       "extensionId": "cokobmaifkjcocbomlchiblkjlmlbnlh",
       "file": "pj-website-price-0.11.1.zip",
       "size": 215714,
-      "sha256": "3d8b0197a0890fbeffee2cb0052f955a8e9ff225da552e431388190ddea380fc",
-      "download": "https://github.com/Khoa11001985/Pj-extension/releases/download/release-2026-10-31/pj-website-price-0.11.1.zip"
+      "sha256": "76e1bee1bc4ef68d5fa3bd4562ab644b3dc42d51d935bfbb250c35b494c04359",
+      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     }
   ],
-  "tag": "release-2026-10-31",
-  "releaseUrl": "https://github.com/Khoa11001985/Pj-extension/releases/tag/release-2026-10-31"
+  "tag": "release-2026-10-31-b",
+  "releaseUrl": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
 }
