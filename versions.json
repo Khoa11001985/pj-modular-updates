@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T13:25:59.009Z",
+  "generatedAt": "2026-11-04T04:12:31.530Z",
   "designSystem": "0.5.1",
   "items": [
     {
@@ -27,12 +27,12 @@
     {
       "id": "snm-booking",
       "name": "SNM Booking Info",
-      "version": "2.23.2",
+      "version": "2.23.3",
       "category": "booking",
       "extensionId": "jnbpdlpajponljefphlpicbaeklnbnag",
-      "file": "snm-booking-2.23.2.zip",
-      "size": 138919,
-      "sha256": "add9bbec767a71af39b16184f15732d243f1f516b6f299d1e94848e07dbf91d3",
+      "file": "snm-booking-2.23.3.zip",
+      "size": 140060,
+      "sha256": "7e917e644307eb8e256ddbe6ae6b37a6fc44573bfb99174f737e13d63a2209d4",
       "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
@@ -135,6 +135,6 @@
       "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     }
   ],
-  "tag": "release-2026-10-31",
+  "tag": "release-2026-11-04",
   "releaseUrl": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
 }
