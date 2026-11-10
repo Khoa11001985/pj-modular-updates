@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-11-04T04:12:31.530Z",
+  "generatedAt": "2026-11-10T07:17:34.316Z",
   "designSystem": "0.5.1",
   "items": [
     {
       "id": "launcher",
       "name": "PJ Launcher",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "category": "launcher",
       "extensionId": "pfmahdjfoanniicgkffgondnimfmjegn",
-      "file": "launcher-1.3.0.zip",
-      "size": 58206,
-      "sha256": "ebe673c10f6aa2a5153f6d68fbec4780bbecfdd1dfb3c79176d35605baa59fca",
+      "file": "launcher-1.3.1.zip",
+      "size": 58092,
+      "sha256": "b086eeb33a1cf85d72ba0bc0e9a8ae5bc2959dcf0dad4bfb2b4ae1c3208029d9",
       "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
@@ -49,12 +49,12 @@
     {
       "id": "otas-tracker",
       "name": "OTAs Tracker",
-      "version": "1.2.2",
+      "version": "1.3.0",
       "category": "ota",
       "extensionId": "ndbcgoiojinnfhpdmkbadhdjmiklmkbp",
-      "file": "otas-tracker-1.2.2.zip",
-      "size": 187999,
-      "sha256": "f320ec782c5a6d1101cd5b78641066c47278578807cd31cfe33ba2d73794ce53",
+      "file": "otas-tracker-1.3.0.zip",
+      "size": 191536,
+      "sha256": "3f296b48905f07a2c1bf375deba87a43c8101000dfcc541da9d0a6980adee9bb",
       "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
@@ -113,28 +113,17 @@
       "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     },
     {
-      "id": "hotel-info",
-      "name": "PJ Website Hotel Info Assistant",
-      "version": "8.6.3",
+      "id": "pj-website-setup",
+      "name": "PJ Website Setup",
+      "version": "1.3.0",
       "category": "website",
-      "extensionId": "jadimeeccaemegfamfadajilpnjhnpmg",
-      "file": "hotel-info-8.6.3.zip",
-      "size": 539720,
-      "sha256": "bae3ae3c567fedbb1ce748018ad43f036325c9c057d8e38e164c910ac6f9ae50",
-      "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
-    },
-    {
-      "id": "pj-website-price",
-      "name": "PJ Website Price Automation",
-      "version": "0.11.2",
-      "category": "website",
-      "extensionId": "cokobmaifkjcocbomlchiblkjlmlbnlh",
-      "file": "pj-website-price-0.11.2.zip",
-      "size": 215617,
-      "sha256": "7165dbc9873fa7d8f66afd6d7c0a6b8d0fc0d08a9597d19de51c85721567026a",
+      "extensionId": "kljklhijgcdnapagjeddbbcbkmolcaoa",
+      "file": "pj-website-setup-1.3.0.zip",
+      "size": 748789,
+      "sha256": "a8b367359bf0034a8d7d43b3bf331922c9fdf05153d6f705b99733a23ee25bb0",
       "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     }
   ],
-  "tag": "release-2026-11-04",
+  "tag": "release-2026-11-10",
   "releaseUrl": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
 }
