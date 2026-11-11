@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T07:17:34.316Z",
+  "generatedAt": "2026-11-11T08:35:21.712Z",
   "designSystem": "0.5.1",
   "items": [
     {
@@ -115,15 +115,15 @@
     {
       "id": "pj-website-setup",
       "name": "PJ Website Setup",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "category": "website",
       "extensionId": "kljklhijgcdnapagjeddbbcbkmolcaoa",
-      "file": "pj-website-setup-1.3.0.zip",
-      "size": 748789,
-      "sha256": "a8b367359bf0034a8d7d43b3bf331922c9fdf05153d6f705b99733a23ee25bb0",
+      "file": "pj-website-setup-1.3.1.zip",
+      "size": 1494060,
+      "sha256": "57fa68c8e6b4c54e9a7ecb46402824a6d9952fc2dcd5b73e19805aa615a923d7",
       "download": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
     }
   ],
-  "tag": "release-2026-11-10",
+  "tag": "release-2026-11-11",
   "releaseUrl": "https://drive.google.com/drive/folders/1aNlhl-TGhf3DVEOYx7fcJMfaoZ8b_l3J"
 }
